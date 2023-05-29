@@ -1,5 +1,7 @@
 # my-app
-
+```
+git clone "insert SSH key"
+```
 ## Project setup
 ```
 yarn install
