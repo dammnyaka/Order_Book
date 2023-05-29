@@ -1,3 +1,5 @@
+-Vue 3, vuex, websocket, axios, binance api
+
 # my-app
 ```
 git clone "insert SSH key"
